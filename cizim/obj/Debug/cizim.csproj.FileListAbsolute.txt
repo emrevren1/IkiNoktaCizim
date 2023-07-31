@@ -1,0 +1,29 @@
+c:\users\ultraslan\documents\visual studio 2015\Projects\cizim\cizim\bin\Debug\cizim.exe.config
+c:\users\ultraslan\documents\visual studio 2015\Projects\cizim\cizim\bin\Debug\cizim.exe
+c:\users\ultraslan\documents\visual studio 2015\Projects\cizim\cizim\bin\Debug\cizim.pdb
+c:\users\ultraslan\documents\visual studio 2015\Projects\cizim\cizim\obj\Debug\cizim.csprojResolveAssemblyReference.cache
+c:\users\ultraslan\documents\visual studio 2015\Projects\cizim\cizim\obj\Debug\cizim.Form1.resources
+c:\users\ultraslan\documents\visual studio 2015\Projects\cizim\cizim\obj\Debug\cizim.Properties.Resources.resources
+c:\users\ultraslan\documents\visual studio 2015\Projects\cizim\cizim\obj\Debug\cizim.csproj.GenerateResource.Cache
+c:\users\ultraslan\documents\visual studio 2015\Projects\cizim\cizim\obj\Debug\cizim.exe
+c:\users\ultraslan\documents\visual studio 2015\Projects\cizim\cizim\obj\Debug\cizim.pdb
+F:\ \PROJELER\grafikler çizimler rgb\cizim\cizim\bin\Debug\cizim.exe.config
+F:\ \PROJELER\grafikler çizimler rgb\cizim\cizim\obj\Debug\cizim.exe
+F:\ \PROJELER\grafikler çizimler rgb\cizim\cizim\obj\Debug\cizim.pdb
+F:\ \PROJELER\grafikler çizimler rgb\cizim\cizim\bin\Debug\cizim.exe
+F:\ \PROJELER\grafikler çizimler rgb\cizim\cizim\bin\Debug\cizim.pdb
+F:\ \PROJELER\grafikler çizimler rgb\cizim\cizim\obj\Debug\cizim.csprojResolveAssemblyReference.cache
+F:\ \PROJELER\grafikler çizimler rgb\cizim\cizim\obj\Debug\cizim.Form1.resources
+F:\ \PROJELER\grafikler çizimler rgb\cizim\cizim\obj\Debug\cizim.Properties.Resources.resources
+F:\ \PROJELER\grafikler çizimler rgb\cizim\cizim\obj\Debug\cizim.csproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER\grafikler çizimler rgb\cizim\cizim\bin\Debug\cizim.exe.config
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER\grafikler çizimler rgb\cizim\cizim\bin\Debug\cizim.exe
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER\grafikler çizimler rgb\cizim\cizim\bin\Debug\cizim.pdb
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER\grafikler çizimler rgb\cizim\cizim\obj\Debug\cizim.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER\grafikler çizimler rgb\cizim\cizim\obj\Debug\cizim.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER\grafikler çizimler rgb\cizim\cizim\obj\Debug\cizim.Form1.resources
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER\grafikler çizimler rgb\cizim\cizim\obj\Debug\cizim.Properties.Resources.resources
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER\grafikler çizimler rgb\cizim\cizim\obj\Debug\cizim.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER\grafikler çizimler rgb\cizim\cizim\obj\Debug\cizim.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER\grafikler çizimler rgb\cizim\cizim\obj\Debug\cizim.exe
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER\grafikler çizimler rgb\cizim\cizim\obj\Debug\cizim.pdb
